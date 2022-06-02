@@ -3,5 +3,6 @@
     <!-- <NuxtWelcome /> -->
     <router-view></router-view>
     <button>my button</button>
+    <button style="background: red">Red button</button>
   </div>
 </template>
