@@ -6,5 +6,6 @@
     <button style="color: white; background: green;">Green Button!</button>
     <button style="background: red">Red button</button>
     <h1>Buttons</h1>
+    <button style="background: blue">Blue button</button>
   </div>
 </template>
