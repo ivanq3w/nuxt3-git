@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "nuxt dev",
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "yarn upgrade"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.3"
+  },
+  "keywords": [],
+  "name": "nuxt3-git",
+  "description": ""
+}
