@@ -1,5 +1,5 @@
 <template>
-  <div style="display: flex; flex-direction: column;">
+  <div style="display: flex; flex-direction: column; max-width: 300px;">
     <!-- <NuxtWelcome /> -->
     <!-- <router-view></router-view> -->
     <button>my button</button>
